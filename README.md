@@ -17,6 +17,7 @@ The RSI screen is a technical analysis tool that identifies when an asset may be
 - ✅ Clean, formatted table image
 - ✅ Email report with subject + body + date
 - ✅ Scheduled via **Apache Airflow**
+<img width="772" alt="Screenshot 2025-04-11 at 11 58 29 PM" src="https://github.com/user-attachments/assets/10e01f11-a137-4f9d-91fc-830203397eb5" />
 
 ---
 
