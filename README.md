@@ -15,3 +15,12 @@ A Python-based RSI stock screener that emails a snapshot of selected stocks' RSI
 
 ## 📂 Project Structure
 
+## 🚀 Setup Instructions
+
+1. Clone the repo
+2. Install requirements:
+
+## Airflow Schedule
+schedule_interval="0 9 * * 1-5"
+
+
