@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # CONFIGURATION
-SENDER_EMAIL = "manglaajay@gmail.com"
-APP_PASSWORD = "fruv tkjm bbjj nogg"  # use Gmail app password
-RECIPIENT_EMAIL = "ajaymangla20@gmail.com"
+SENDER_EMAIL = "xxx@gmail.com"
+APP_PASSWORD = "xxx"  # use Gmail app password
+RECIPIENT_EMAIL = "xxxx@gmail.com"
 TICKERS = ["AAPL", "MSFT", "GOOGL", "TSLA", "AMZN"]
 IMAGE_PATH = os.path.abspath("rsi_table.png")
 
