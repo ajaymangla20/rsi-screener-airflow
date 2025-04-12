@@ -1,6 +1,7 @@
 # 📈 RSI Screener with Airflow
 
 This project builds a daily RSI-based stock screener in Python, automated using Airflow. It fetches stock data, calculates RSI and other metrics, renders a styled image table, and emails it out every weekday at 9:00 AM CST.
+The RSI screen is a technical analysis tool that identifies when an asset may be overbought or oversold based on its recent price movements. It's a momentum indicator that oscillates between 0 and 100, with values above 70 typically suggesting overbought conditions and values below 30 suggesting oversold conditions.
 
 ---
 
