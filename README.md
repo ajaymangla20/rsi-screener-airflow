@@ -110,5 +110,14 @@ git add README.md requirements.txt && \
 git commit -m "📄 Added final README and requirements" && \
 git push origin main
 
+## Steps 
+1. **Install Airflow** and start the webserver and scheduler.
+2. **Create the Python script** that calculates RSI for stock data.
+3. **Create the Airflow DAG** to schedule and automate running the RSI script daily.
+4. **Upload the DAG** into the `dags/` directory of your Airflow setup.
+5. **Monitor the DAG** from the Airflow UI to check execution and logs.
+
+By following these steps, you will have automated your RSI screener using Apache Airflow.
+
 
 
